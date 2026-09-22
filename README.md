@@ -10,7 +10,7 @@
   <a href="https://github.com/AbsolomOndara?tab=followers">
     <img
       src="https://img.shields.io/github/followers/AbsolomOndara?label=Followers&style=for-the-badge&logo=github&color=7c3aed"
-      alt="Followers"
+      alt="GitHub followers"
     />
   </a>
   <img
@@ -20,7 +20,7 @@
   <a href="mailto:absolomondara01@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact%20Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      alt="Email Absolom Ondara"
     />
   </a>
 </p>
@@ -42,16 +42,34 @@
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,vue,js,html,css,bootstrap,git,github,vscode&perline=10" alt="Technology stack" />
+  <img
+    src="https://skillicons.dev/icons?i=python,django,vue,js,html,css,bootstrap,git,github,vscode&perline=10"
+    alt="Python, Django, Vue.js, JavaScript, HTML, CSS, Bootstrap, Git, GitHub and VS Code"
+  />
 </p>
 
-## 📊 GitHub Activity and Languages
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="./github-metrics.svg"
-    alt="Absolom Ondara's GitHub metrics and language percentages"
+    src="https://github-readme-stats.vercel.app/api?username=AbsolomOndara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    width="49%"
+    alt="Absolom Ondara's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsolomOndara&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Absolom Ondara's most-used programming languages"
+  />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AbsolomOndara&theme=tokyo-night&hide_border=true&area=true&custom_title=Absolom%20Ondara%27s%20Contribution%20Graph"
     width="100%"
+    alt="Absolom Ondara's contribution activity graph"
   />
 </p>
 
@@ -69,7 +87,7 @@
     />
     <img
       src="https://raw.githubusercontent.com/AbsolomOndara/AbsolomOndara/output/github-snake.svg"
-      alt="Contribution snake animation"
+      alt="Snake animation eating Absolom Ondara's GitHub contributions"
       width="100%"
     />
   </picture>
@@ -79,13 +97,22 @@
 
 <p align="center">
   <a href="https://www.absolomondara.co.ke/">
-    <img src="https://img.shields.io/badge/Website-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img
+      src="https://img.shields.io/badge/Website-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit my website"
+    />
   </a>
   <a href="mailto:absolomondara01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Gmail-Email%20Me-2563eb?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email me"
+    />
   </a>
   <a href="https://github.com/AbsolomOndara">
-    <img src="https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-06b6d4?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow me on GitHub"
+    />
   </a>
 </p>
 
